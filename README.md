@@ -1,13 +1,11 @@
-## Hi there 👋
+## Hi
 
-# **HOLA**
+# **hi**
 
-## Soy Mary Fabiola Vargas Flores, me dicen Fabi
-### Soy estudiante de la UMSS
-### Estoy en la carrera de Ingenieria Informatica
-### Actualmente cursando una nueva materia
+## m
+### i
 
-# ***recuerda: Nunca es tarde para adquirir nuevos conocimientos , siempre se puede aprender algo nuevo***
+# ***k***
 <!--
 **FabiolaVargas1/FabiolaVargas1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
